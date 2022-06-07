@@ -1,0 +1,32 @@
+C:\Users\damla\Desktop\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.exe
+C:\Users\damla\Desktop\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.deps.json
+C:\Users\damla\Desktop\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.runtimeconfig.json
+C:\Users\damla\Desktop\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.runtimeconfig.dev.json
+C:\Users\damla\Desktop\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.dll
+C:\Users\damla\Desktop\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.pdb
+C:\Users\damla\Desktop\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.csproj.AssemblyReference.cache
+C:\Users\damla\Desktop\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.Form1.resources
+C:\Users\damla\Desktop\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.csproj.GenerateResource.cache
+C:\Users\damla\Desktop\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\Desktop\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.AssemblyInfoInputs.cache
+C:\Users\damla\Desktop\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.AssemblyInfo.cs
+C:\Users\damla\Desktop\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.csproj.CoreCompileInputs.cache
+C:\Users\damla\Desktop\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.dll
+C:\Users\damla\Desktop\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.pdb
+C:\Users\damla\Desktop\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.exe
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.deps.json
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.runtimeconfig.json
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.runtimeconfig.dev.json
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.dll
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\bin\Debug\netcoreapp3.1\kare_ve_küp_alma.pdb
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.Form1.resources
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.dll
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.pdb
+C:\Users\pc\OneDrive\Masaüstü\bilgisayar programcılığı\görsel ödevv\görsel prog. ödev\kare_ve_küp_alma\obj\Debug\netcoreapp3.1\kare_ve_küp_alma.genruntimeconfig.cache
